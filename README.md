@@ -1,6 +1,7 @@
-# trac2020_submission
+# trac2020_submission HINDI TASK B
 [TRAC 2020](https://sites.google.com/view/trac2/) Models code 
 
+Currently only consists of code for the HINDI Task B run.
 
 Credits:
 
