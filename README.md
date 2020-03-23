@@ -2,6 +2,7 @@
 [TRAC 2020](https://sites.google.com/view/trac2/) Models code 
 
 Currently only consists of code for the HINDI Task B run.
+Please find the code in the notebooks directory.
 
 Credits:
 
