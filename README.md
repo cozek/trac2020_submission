@@ -1,8 +1,17 @@
-# trac2020_submission HINDI TASK B
-[TRAC 2020](https://sites.google.com/view/trac2/) Models code 
+# trac2020_submission
+[TRAC 2020](https://sites.google.com/view/trac2/) Models code team **abaruah**
 
-Currently only consists of code for the HINDI Task B run.
-Please find the code in the notebooks directory.
+Paper: http://panlingua.co.in/trac-2/pdf/2020.trac2-1.12.pdf
+
+Please find the model and example training scipt for the
+Transformer with AttentionHead Classification Layer in the `notebooks` directory.
+The notebook can be easily modified to use any of the transformers used in the paper,
+or any available transformer/classifier in the HuggingFace library. 
+
+The same directory contains notebook for 
+- HINDI Task B (Contains complete code with Checkpoint Ensembling)
+- Dataset Analysis
+- Error Analysis on the RoBERTa models.
 
 Credits:
 
@@ -11,7 +20,7 @@ Credits:
 - Transformers: https://github.com/huggingface/transformers
 
 
-If you our scripts please cite:
+If our code/paper was helpful, please cite:
 ```
 @InProceedings{trac2abaruah,
 author = {Baruah, Arup and Das, Kaushik Amar and Barbhuiya, Ferdous Ahmed and Dey, Kuntal},
