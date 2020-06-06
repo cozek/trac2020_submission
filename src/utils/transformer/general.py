@@ -27,7 +27,7 @@ class EarlyStopping:
         self.val_loss_min = np.Inf
         self.delta = delta
 
-        if model_name == None
+        if model_name == None:
             self.model_name = 'checkpoint.pt'
         else:
             self.model_name = model_name
